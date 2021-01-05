@@ -119,3 +119,5 @@ rea/settings.py
 Include/**
 Scripts/**
 Lib/**
+/static/**
+/media/**
